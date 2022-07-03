@@ -13,7 +13,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/suveiko?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api?username=PasterZOOM&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
+        <img src="https://github-readme-stats.vercel.app/api?username=suveiko&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
              title="suveiko github repositories" 
              alt="suveiko github stats"
              width="49%"/>
@@ -62,14 +62,19 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
              title="Git" alt="Git"
              width="40" height="40"/></a>&nbsp;
-    <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"
-             title="Photoshop" alt="Photoshop"
+    <a href="https://www.figma.com">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+             title="Figma" alt="Figma"
              width="40" height="40"/></a>&nbsp;
     <a href="https://www.jetbrains.com/webstorm/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
          title="WebStorm" alt="WebStorm"
          width="40" height="40"/></a>&nbsp;
+    <a href="https://storybook.js.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg"
+         title="StoryBook" alt="StoryBook"
+         width="40" height="40"/></a>&nbsp;
+         
 </div>
 
 <br/>
