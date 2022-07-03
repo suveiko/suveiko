@@ -80,6 +80,8 @@
          width="40" height="40"/></a>&nbsp;
          
 </div>
+
+<br/>
 <div align="center">
     <a href="https://www.codewars.com/users/SashaSuveiko">
         <img src="https://www.codewars.com/users/SashaSuveiko/badges/small"
