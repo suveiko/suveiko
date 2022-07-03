@@ -1,8 +1,7 @@
-<!-- HEARER -->
 
-<!-- /HEARER -->
+<h1  align="center" >Hi there 👋, I'm <a>Sasha</a>
+<h2  align="center"> Front-end developer
 
-<!-- ./STAT -->
 <div align="center">
     <a href="https://skyline.github.com/suveiko/2022">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=suveiko&hide_border=true&stroke=888&ring=494&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=494&background=0000"
