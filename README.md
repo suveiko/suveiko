@@ -81,19 +81,6 @@
          
 </div>
 
-<br/>
-
-<div align="center">
-     <a href="https://www.codewars.com/users/PasterZOOM">
-        <img src="img.gif"  width="300"/>
-     </a>
-</div>
-<div align="center">
-    <a href="https://www.codewars.com/users/SashaSuveiko">
-        <img src="https://www.codewars.com/users/SashaSuveiko/badges/small"
-             title="CodeWars" alt="CodeWars"/>
-    </a>
-</div>
 
 <div align="center">
     <a href=mailto:suveikosasha@gmail.com>
